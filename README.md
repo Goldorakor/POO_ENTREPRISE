@@ -2,4 +2,6 @@
 
 Exercice sur la programmation orientée objet (POO).
 
-Utilisable pour servir de modèle car **corrigé et validé par les formateurs**.
+Utilisable pour servir de modèle car **corrigé et validé par les formateurs** (voir les vidéos de Mickaël).
+
+
